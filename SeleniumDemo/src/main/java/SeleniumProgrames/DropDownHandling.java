@@ -29,9 +29,6 @@ public class DropDownHandling {
 		
 		select.selectByVisibleText("string");
 		
-		select.selectByValue("string");
-		select.deselectByIndex(1);
-		
 		
 
 	}
