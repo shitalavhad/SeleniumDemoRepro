@@ -40,9 +40,7 @@ public class WebElementMethod {
 		loginButton.getAttribute("value");
 		System.out.println(loginButton);
 
-		//isDisplayed()method
-		WebElement pageTitle=driver.findElement(By.xpath("  "));
-		pagetTile.isDisplayed();
+		
 		
 	
 
