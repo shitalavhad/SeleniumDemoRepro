@@ -55,6 +55,8 @@ public class WebDriverMethods {
 		driver.navigate().forward();//click forword
 		
 		driver.navigate().refresh();//click on refresh button
+
+		driver.navigate().refresh();
 		
 		
 		
