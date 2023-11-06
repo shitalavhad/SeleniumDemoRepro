@@ -15,6 +15,11 @@ public class DropDownHandling1 {
 		
 		WebDriver driver=new ChromeDriver();
 
+		WebDriver driver=new ChromeDriver();
+		WebDriver driver=new ChromeDriver();
+		WebDriver driver=new ChromeDriver();
+		
+
 	}
 
 }
